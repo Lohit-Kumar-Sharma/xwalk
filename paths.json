@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/lohit-xwalkdemo/:/",
-    "/content/lohit-xwalkdemo/configuration:/.helix/config.json"
+    "/content/lohit-xwalk/:/",
+    "/content/lohit-xwalk/configuration:/.helix/config.json"
   ]
 }
